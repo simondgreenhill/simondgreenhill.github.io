@@ -1,4 +1,4 @@
-baseURL = "simondgreenhill.github.io"
+baseURL = "https://simondgreenhill.github.io"
 
 # set your your own ga token here.
 googleAnalytics = "UA/G-123123-12"
